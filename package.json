@@ -1,5 +1,5 @@
 {
-  "name": "Abhishek Sojitra",
+  "name": "abhishek_sojitra",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -15,8 +15,12 @@
     "@astrojs/tailwind": "^5.1.0",
     "@biomejs/biome": "1.7.3",
     "@tailwindcss/typography": "^0.5.13",
-    "astro": "^4.8.2",
+    "astro": "^4.14.5",
     "tailwindcss": "^3.4.3",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "rss-to-json": "^2.1.1",
+    "xml2js": "^0.6.2"
   }
 }

@@ -1,23 +1,30 @@
 [
-	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
-	},
-	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
-	},
-	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
-	}
+  {
+    "dates": "Senior Project Manager 2023",
+    "role": "Team Building",
+    "company": "Micrasol LLP",
+    "description": "My responsibilities include facilitating client meetings and daily stand-ups, planning and managing sprints, estimating project timelines, and conducting brainstorming sessions. I ensure regular weekly catch-ups to track progress, address any issues, and maintain alignment with project goals and client requirements.",
+    "logo": "/assets/images/experiences/manager.png"
+  },
+  {
+    "dates": "Senior Full Stack Developer 2021-2023",
+    "role": "Boundary Crossing",
+    "company": "Micrasol LLP",
+    "description": "My responsibilities included designing and implementing scalable web applications, managing databases, and ensuring seamless integration across the stack. my expertise in these modern JavaScript frameworks to deliver high-quality, efficient code, contributing to the development of innovative web solutions. Additionally, I collaborated with cross-functional teams to ensure alignment with project goals and client requirements.",
+    "logo": "/assets/images/experiences/fullstack.jpeg"
+  },
+  {
+    "dates": "Web Developer 2020-2021",
+    "role": "Challenge myself",
+    "company": "Micrasol LLP",
+    "description": "I worked on PHP and Laravel to develop robust, scalable web applications. My responsibilities included designing and implementing backend solutions, managing databases, and ensuring seamless integration with front-end components. I leveraged my expertise in PHP and the Laravel framework to deliver high-quality, efficient code and contributed to the development of innovative web solutions.",
+    "logo": "/assets/images/experiences/webdev.jpeg"
+  },
+  {
+    "dates": "Web Design Intern 2019-2020",
+    "role": "Beyond on comfort zone",
+    "company": "Micrasol LLP",
+    "description": "As a web design intern, I collaborate with senior designers to create visually appealing and user-friendly websites. I utilize my skills in HTML, CSS, and JavaScript to enhance website functionality and aesthetics. My role involves participating in design discussions and implementing modern web design principles to meet client needs.",
+    "logo": "/assets/images/experiences/internship.png"
+  }
 ]

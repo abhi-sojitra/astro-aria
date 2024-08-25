@@ -1,20 +1,26 @@
 [
   {
-    "name": "myPTA",
-    "description": "My PTA is a mobile phone application for the use of parent-teacher associations.",
-    "image": "/assets/images/projects/myPta.jpg",
+    "name": "Task Management System",
+    "description": "A web application that streamlines task creation, assignment, and management to enhance productivity and collaboration.",
+    "image": "/assets/images/projects/mtm.png",
     "url": "https://www.mypta.co.uk/"
   },
   {
-    "name": "DNS.Surf",
-    "description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-    "image": "/assets/images/projects/dns.surf.png",
-    "url": "https://dns.surf"
+    "name": "npm Pkg : Moment Date Utils",
+    "description": "The moment-date-utils package provides a wide range of functions to handle various date and time operations.",
+    "image": "/assets/images/projects/date-utils.png",
+    "url": "https://www.npmjs.com/package/moment-date-utils"
   },
   {
-    "name": "HTML.ZONE",
-    "description": "Web Toolbox.",
-    "image": "/assets/images/projects/html.zone.png",
-    "url": "https://html.zone"
+    "name": "npm Pkg : Multi Regex Validator",
+    "description": "The moment-date-utils package provides a wide range of functions to handle various date and time operations.",
+    "image": "/assets/images/projects/regex.png",
+    "url": "https://www.npmjs.com/package/multi-regex-validator"
+  },
+  {
+    "name": "npm Pkg : TextManipulator",
+    "description": "The moment-date-utils package provides a wide range of functions to handle various date and time operations.",
+    "image": "/assets/images/projects/textManipulator.png",
+    "url": "https://www.npmjs.com/package/textmanipulator"
   }
 ]
